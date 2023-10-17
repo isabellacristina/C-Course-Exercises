@@ -1,3 +1,3 @@
-Coleção de exercícios de C++ do Curso Completo de Linguagem C e C++ - Iniciante Ao Avançado da Udemy.
+Collection of C++ exercises from the Complete C and C++ Language Course - Beginners to Advanced on Udemy.
 
-Cada exercício está estruturado com a questão em formato de comentário seguido do código.
+Each exercise is structured with the question in comment format followed by the awnser in code.
